@@ -1,4 +1,10 @@
 # ![www.linkedin.com/in/jamie-andre-nuñez-jimenez](https://media.tenor.com/6NVwNQxJJkIAAAAi/gurawave.gif) Hola, mi nombre es Jamie Nuñez 👋
-### Estudiante de Sistemas de la Información
+### Full Stack Web Developer
 
-Soy un estudiante peruano con formación en Ingeniería Informática en Venezuela, donde me faltaba un año para completar la carrera antes de trasladarme a Perú. Aquí, inicialmente estudié Ciencia de la Computación, pero luego me cambié a Sistemas de la Información. Siempre motivado por aprender nuevas tecnologías, especialmente en el desarrollo web, también me gusta enseñar y compartir mis conocimientos con los demás. Me considero una persona amigable y capaz de establecer buenas relaciones con quienes me rodean.
+Desarrollador web full stack con sólida experiencia en el diseño e
+implementación de soluciones tecnológicas que integran frontend y backend.
+Especializado en mejorar la seguridad y usabilidad para optimizar la
+experiencia del usuario final, con un historial comprobado de proyectos
+exitosos utilizando diversas herramientas. Comprometido con el desarrollo
+ágil y buenas prácticas que aumentan la productividad del equipo y el
+rendimiento del sitio.
